@@ -1,8 +1,10 @@
 {
   "name": "vigilis",
-  "version": "1.0.0",
-  "private": true,
+  "version": "2.0.0",
+  "description": "SENTINEL : poste de pilotage multi-entreprises pour sociétés de sécurité privée (fichier unique vigilis.js, sans dépendance).",
   "main": "vigilis.js",
   "scripts": { "start": "node vigilis.js" },
-  "engines": { "node": ">=22.5" }
+  "engines": { "node": ">=22.5" },
+  "license": "UNLICENSED",
+  "private": true
 }
